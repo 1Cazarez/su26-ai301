@@ -8,7 +8,7 @@
 ---
 
 ## Why I Chose This Issue
-Since this is a ui component, and I have relevant experience I wanted to try and get the expeceted results. I know what my goal is and it will just be trying to get there.
+Since this is a ui rendering component, and I have relevant experience I wanted to try and get the expeceted results. I know what my goal is and it will just be trying to get there.
 
 
 ---
